@@ -3,8 +3,6 @@
 echo "Unify unified workspace setup tool"
 echo "Copyright 2010 Sebastian Fastner"
 echo
-echo "visit http://www.unify-training.com"
-echo
 
 echo "---- Please wait, initialisation of submodules. This may take some time ----"
 if [ -d unify/framework/source/class/unify ]; then
@@ -30,4 +28,8 @@ else
 fi
 
 echo
+echo
 echo "Create your application with 'unify/tool/create-application.py -n <namespace>'"
+echo
+echo "visit http://www.unify-training.com for tutorials and trainings"
+echo
