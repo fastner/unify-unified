@@ -2,6 +2,14 @@
 
 Unify unified is a quick startup tool to set up a correct workspace to create unify applications.
 
+## Prerequisite
+
+You need to install python3 on your system. You can execute 
+
+	$ python3 --version
+
+to check your installed python version.
+
 ## Setup
 
 Make a clone of this project via
@@ -10,7 +18,7 @@ Make a clone of this project via
 
 After cloning run the setup shell script
 
-	$ cd xabc
+	$ cd <yourWorkspaceName>
 	$ ./setup.sh
 
 As last step create your application with the create-application tool
