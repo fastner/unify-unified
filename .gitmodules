@@ -1,0 +1,15 @@
+[submodule "qooxdoo"]
+	path = qooxdoo
+	url = https://github.com/unify/qooxdoo.git
+[submodule "unify"]
+	path = unify
+	url = https://github.com/unify/unify.git
+[submodule "phonegap-iphone"]
+	path = phonegap-iphone
+	url = https://github.com/unify/phonegap-iphone.git
+[submodule "phonegap-android"]
+	path = phonegap-android
+	url = https://github.com/unify/phonegap-android.git
+[submodule "phonegap-palm"]
+	path = phonegap-palm
+	url = https://github.com/unify/phonegap-palm.git
